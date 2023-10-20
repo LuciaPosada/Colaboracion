@@ -8,5 +8,6 @@ public class Colaborador {
 
         //Mostramos
         System.out.println("area="+area);
+         //Fin de codigo
     }
 }

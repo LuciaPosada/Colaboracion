@@ -15,10 +15,15 @@ public class Main {
 
             System.out.println("Hola");
 
-            if (373>46) {
+            float numero;
+
+            if (numero>46) {
                 System.out.println("aaa");
-            }else{
+            }else (numero==0){
                 System.out.println("bbbbb");
+                ]else{
+                    System.out.println("cccccc");
+                }
             }
         }
     }
